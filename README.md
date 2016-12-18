@@ -19,7 +19,7 @@ The following Tipper features are implemented:
 
 ## Video Walkthrough 
 
-<img src='http://imgur.com/gallery/I8Xofyf' title='Tipper Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/I8Xofyf.gif' title='Tipper Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
