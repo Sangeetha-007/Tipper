@@ -10,12 +10,12 @@ Time spent: 9 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage to 12, 18, 20 and 25%
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Settings page to change the default tip percentage to 12, 18, 20 and 25%
 
 The following Tipper features are implemented:
 
-- [ ] Added a light purple color, and gives 4 different percentages
+- [x] Added a light purple color, and gives 4 different percentages
 
 ## Video Walkthrough 
 
